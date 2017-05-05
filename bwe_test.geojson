@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#87c790",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Energieträger": "Bio",
+        "installierte Leistung [MW]": "1.063",
+        "Inbetriebnahme": "2008-12-22",
+        "Verteilnetzbetreiber": "Stadtwerke Neustadt in Holstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.85836,
+          54.29527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#6a83b9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Energieträger": "Wind",
+        "installierte Leistung [MW]": "0.2",
+        "Inbetriebnahme": "1990-09-28",
+        "Verteilnetzbetreiber": "Stadtwerke Neustadt in Holstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.82021,
+          54.1247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#6a83b9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Energieträger": "Wind",
+        "installierte Leistung [MW]": "0.15",
+        "Inbetriebnahme": "1991-07-11",
+        "Verteilnetzbetreiber": "Schleswig-Holstein Netz AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08677,
+          54.43758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#6a83b9",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Energieträger": "Wind",
+        "installierte Leistung [MW]": "0.5",
+        "Inbetriebnahme": "1997-04-30",
+        "Verteilnetzbetreiber": "Schleswig-Holstein Netz AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61772,
+          53.93039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e6ea9a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Energieträger": "Solar",
+        "installierte Leistung [MW]": 0.00608,
+        "Inbetriebnahme": "2012-03-30",
+        "Verteilnetzbetreiber": "Schleswig-Holstein Netz AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34894,
+          53.81264
+        ]
+      }
+    }
+  ]
+}
